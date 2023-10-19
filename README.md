@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Authava-cs22/authava/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm AUthava</h1>
 <h3 align="center">web designer</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
