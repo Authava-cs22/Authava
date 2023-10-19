@@ -1,12 +1,13 @@
 ![logo](https://github.com/Authava-cs22/authava/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Authava
 ===============================================================================================================================
-<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+
 
 -------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [authava38@gmail.com](mailto:authava38@gmail.com)
+<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <a href="https://www.github.com/Authava-cs22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Authava-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
