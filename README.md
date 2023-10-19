@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Authava
 ===============================================================================================================================
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
-web developer
+
 -------------
 
 * 🌍  I'm based in India
