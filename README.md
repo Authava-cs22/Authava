@@ -1,5 +1,3 @@
-# authava
-Web Designer
 <h1 align="center">Hi 👋, I'm AUthava</h1>
 <h3 align="center">web designer</h3>
 
@@ -9,7 +7,7 @@ Web Designer
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bash_Byte_Blitz**
+- 🔭 I’m currently working on **Byte_Bash_Blitz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +22,4 @@ Web Designer
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=authava&show_icons=true&locale=en" alt="authava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=authava&" alt="authava" /></p>
+
